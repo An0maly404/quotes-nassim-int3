@@ -3,8 +3,8 @@
 A python program that generates programming quotes and jokes for the github class of Efrei.
 
 ## Contributors
-- `initiator`: AININE Nassim Group Int3
-- `contributor-1`: AUFFRAY Valentin Group Int3
+- `initiator`: AININE Nassim Int3
+- `contributor-1`: AUFFRAY Valentin Int3
 - `contributor-2`: LAM Hugo Int3
 - `contributor-3`: LARVOR Annabelle Int3
 
