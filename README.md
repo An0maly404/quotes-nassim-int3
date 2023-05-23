@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes for the github clas
 - `contributor-3`: LARVOR Annabelle Int3
 
 ## Fork urls
-- `contributor-1`: [quotes-valentin-int3](url-1)
+- `contributor-1`: [quotes-valentin-int3](https://github.com/JustDiablot/quotes-valentin-int3?organization=JustDiablot&organization=JustDiablot)
 - `contributor-2`: [quotes-hugo-int3](url-2)
 - `contributor-3`: [quotes-annabelle-int3](url-3)
